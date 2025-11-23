@@ -1,4 +1,4 @@
-# 🤖 AI Study Buddy
+# 🤖 LearnMate AI
 
 An intelligent study companion that helps you learn by answering questions, generating quizzes, and remembering your conversations. Powered by Google Gemini and RAG (Retrieval-Augmented Generation).
 
@@ -63,20 +63,17 @@ python main.py
 
 ### Example Session
 
-```
-You: ingest sample.txt
-Agent: Successfully processed 1 chunks from sample.txt.
+## 🖼️ Screenshots
 
-You: Who is Dr. Barista?
-Agent: Dr. Barista is the project lead of the secret "Apollo" 
-       initiative to build a quantum-powered coffee machine...
+### Screenshot 1
+![Screenshot 1](3.png)
 
-You: quiz Dr. Barista
-Agent: [Generates 5-question quiz]
+### Screenshot 2
+![Screenshot 2](2.png)
 
-You: exit
-Agent: Goodbye!
-```
+### Screenshot 3
+![Screenshot 3](1.png)
+
 
 ---
 
