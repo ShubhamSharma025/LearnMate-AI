@@ -1,0 +1,10 @@
+langchain
+langchain-community
+
+langchain-google-genai
+
+google-api-python-client
+requests
+sentence-transformers
+faiss-cpu
+pypdf
